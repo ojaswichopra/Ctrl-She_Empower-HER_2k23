@@ -1,0 +1,66 @@
+/* StringQuizSection.css */
+.string-quiz-container {
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+    background: var(--color-footer);
+
+    /* ff 3.6+ */
+    
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-left: 95px;
+    margin-right: 95px;
+
+  }
+  .string-quiz-container p{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #cf8495;
+  }
+  .string-quiz-container h1
+  {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: -0.04em;
+    color: #fff;
+    margin-bottom: 5px;
+  }
+  .options-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    /* padding-left: 20px; Add left indentation */
+  }
+  .option-radio {
+    margin-right: 10px; /* Add spacing between radio button and text */
+  }
+  .option-label {
+    margin: 5px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+  }
+  
+  .check-button {
+    background-color: #cf8495;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px; /* Add margin to separate options from the button */
+  }
+  
+  .check-button:hover {
+    background-color: #c47386;
+  }
+  
