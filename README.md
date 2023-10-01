@@ -1,3 +1,5 @@
+#EmpowerHerSafe
+
 In our progressive world, women continue to achieve remarkable milestones, proving their mettle in diverse fields. Despite this progress, women's safety remains a paramount concern. Every woman deserves the freedom to explore the world without fear acting as a barrier to her dreams.
 
 Empowering women with self-reliance and safety awareness is essential. It's not about confining them within the walls of their homes, but about equipping them with the tools to step out with confidence. By imparting knowledge and skills, we enable women to protect themselves, ensuring that safety concerns do not hinder their growth. With awareness and preparedness, women can fearlessly pursue education, careers, and passions, enriching society with their unique perspectives. Instead of being a limitation, safety awareness becomes a powerful force, inspiring women to be vigilant and bold as they conquer the world, undeterred by the challenges they might face. Together, we can create an environment where women thrive, breaking barriers and achieving their aspirations.
